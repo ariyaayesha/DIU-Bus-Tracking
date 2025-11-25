@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114517947200",
+    "project_id": "diubustracker-9e751",
+    "storage_bucket": "diubustracker-9e751.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114517947200:android:a398316c1d4bef6f3680a5",
+        "android_client_info": {
+          "package_name": "com.example.diubustracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTPbZbM7xlanrtwcpCOByiVlwvaquDXCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

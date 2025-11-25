@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DIU Bus Tracker</string>
+    <string name="registration_success">Registration is Successful</string>
+    <string name="my_website">
+        <a href ="https://kulkarniatharva.github.io/">My Website</a>
+    </string>
+</resources>
